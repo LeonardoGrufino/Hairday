@@ -1,4 +1,4 @@
-#💇‍♀️ HairDay - Sistema de Agendamentos#
+##💇‍♀️ HairDay - Sistema de Agendamentos
 FUNCIONALIDADES
 Agendar horários
 
