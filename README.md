@@ -1,76 +1,94 @@
-##💇‍♀️ HairDay - Sistema de Agendamentos
-FUNCIONALIDADES
-Agendar horários
+cat > README.md << 'EOF'
+# 💇‍♀️ HairDay - Sistema de Agendamentos
 
-Listar agendamentos
+## **FUNCIONALIDADES**
+- Agendar horários
+- Listar agendamentos  
+- Remover agendamentos
 
-Remover agendamentos
+## **TECNOLOGIAS**
+- React
+- CSS3
+- JavaScript
 
-TECNOLOGIAS
-React
-
-CSS3
-
-JavaScript
-
-COMO EXECUTAR
-bash
+## **COMO EXECUTAR**
+\`\`\`bash
 npm install
 npm start
-INICIANDO COM CREATE REACT APP
-Este projeto foi inicializado com Create React App.
+\`\`\`
 
-SCRIPTS DISPONÍVEIS
+---
+
+# **INICIANDO COM CREATE REACT APP**
+
+Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
+
+## **SCRIPTS DISPONÍVEIS**
+
 No diretório do projeto, você pode executar:
 
-npm start
-Executa o app no modo de desenvolvimento.
-Abra http://localhost:3000 para visualizar no navegador.
+### **npm start**
 
-A página será recarregada quando você fizer alterações.
+Executa o app no modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
+
+A página será recarregada quando você fizer alterações.\
 Você também poderá ver erros de lint no console.
 
-npm test
-Inicia o executor de testes no modo de observação interativo.
-Veja a seção sobre execução de testes para mais informações.
+### **npm test**
 
-npm run build
-Compila o app para produção na pasta build.
+Inicia o executor de testes no modo de observação interativo.\
+Veja a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
+
+### **npm run build**
+
+Compila o app para produção na pasta \`build\`.\
 Ele empacota corretamente o React no modo de produção e otimiza a compilação para melhor performance.
 
-A compilação é minificada e os nomes dos arquivos incluem hashes.
+A compilação é minificada e os nomes dos arquivos incluem hashes.\
 Seu app está pronto para ser implantado!
 
-Veja a seção sobre implantação para mais informações.
+Veja a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
 
-npm run eject
-Nota: esta é uma operação irreversível. Uma vez feito eject, você não pode voltar!
+### **npm run eject**
 
-Se você não estiver satisfeito com as escolhas de ferramentas e configurações de build, você pode fazer eject a qualquer momento. Este comando removerá a dependência de build única do seu projeto.
+**Nota: esta é uma operação irreversível. Uma vez feito \`eject\`, você não pode voltar!**
 
-Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc) diretamente para o seu projeto, para que você tenha controle total sobre eles. Todos os comandos, exceto eject, ainda funcionarão, mas apontarão para os scripts copiados para que você possa ajustá-los. Neste ponto, você estará por conta própria.
+Se você não estiver satisfeito com as escolhas de ferramentas e configurações de build, você pode fazer \`eject\` a qualquer momento. Este comando removerá a dependência de build única do seu projeto.
 
-Você nunca precisa usar eject. O conjunto de recursos curados é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar este recurso. No entanto, entendemos que esta ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto.
+Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc) diretamente para o seu projeto, para que você tenha controle total sobre eles. Todos os comandos, exceto \`eject\`, ainda funcionarão, mas apontarão para os scripts copiados para que você possa ajustá-los. Neste ponto, você estará por conta própria.
 
-APRENDA MAIS
-Você pode aprender mais na documentação do Create React App.
+Você nunca precisa usar \`eject\`. O conjunto de recursos curados é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar este recurso. No entanto, entendemos que esta ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto.
 
-Para aprender React, confira a documentação do React.
+## **APRENDA MAIS**
 
-DIVISÃO DE CÓDIGO (CODE SPLITTING)
-Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/code-splitting
+Você pode aprender mais na [documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
-ANALISANDO O TAMANHO DO BUNDLE
-Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Para aprender React, confira a [documentação do React](https://reactjs.org/).
 
-CRIANDO UM PROGRESSIVE WEB APP
-Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+### **DIVISÃO DE CÓDIGO (CODE SPLITTING)**
 
-CONFIGURAÇÃO AVANÇADA
-Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-IMPLANTAÇÃO (DEPLOYMENT)
-Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/deployment
+### **ANALISANDO O TAMANHO DO BUNDLE**
 
-npm run build FALHA AO MINIFICAR
-Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### **CRIANDO UM PROGRESSIVE WEB APP**
+
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### **CONFIGURAÇÃO AVANÇADA**
+
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### **IMPLANTAÇÃO (DEPLOYMENT)**
+
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### **npm run build FALHA AO MINIFICAR**
+
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+EOF
+
+echo "README.md criado com sucesso!"
