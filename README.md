@@ -1,7 +1,26 @@
-Iniciando com Create React App
+💇‍♀️ HairDay - Sistema de Agendamentos
+FUNCIONALIDADES
+Agendar horários
+
+Listar agendamentos
+
+Remover agendamentos
+
+TECNOLOGIAS
+React
+
+CSS3
+
+JavaScript
+
+COMO EXECUTAR
+bash
+npm install
+npm start
+INICIANDO COM CREATE REACT APP
 Este projeto foi inicializado com Create React App.
 
-Scripts Disponíveis
+SCRIPTS DISPONÍVEIS
 No diretório do projeto, você pode executar:
 
 npm start
@@ -33,25 +52,25 @@ Em vez disso, ele copiará todos os arquivos de configuração e as dependência
 
 Você nunca precisa usar eject. O conjunto de recursos curados é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar este recurso. No entanto, entendemos que esta ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto.
 
-Aprenda Mais
+APRENDA MAIS
 Você pode aprender mais na documentação do Create React App.
 
 Para aprender React, confira a documentação do React.
 
-Divisão de Código (Code Splitting)
+DIVISÃO DE CÓDIGO (CODE SPLITTING)
 Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/code-splitting
 
-Analisando o Tamanho do Bundle
+ANALISANDO O TAMANHO DO BUNDLE
 Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-Criando um Progressive Web App
+CRIANDO UM PROGRESSIVE WEB APP
 Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-Configuração Avançada
+CONFIGURAÇÃO AVANÇADA
 Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-Implantação (Deployment)
+IMPLANTAÇÃO (DEPLOYMENT)
 Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/deployment
 
-npm run build falha ao minificar
+npm run build FALHA AO MINIFICAR
 Esta seção foi movida para: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
