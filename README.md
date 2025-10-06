@@ -1,4 +1,4 @@
-#Iniciando com Create React App
+Iniciando com Create React App
 Este projeto foi inicializado com Create React App.
 
 Scripts Disponíveis
